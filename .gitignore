@@ -27,3 +27,22 @@
 *.exe
 *.out
 *.app
+
+# macOS
+*.DS_Store
+
+# Xcode
+xcuserdata/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+
+# Visual Studio Code
+.vscode/*
